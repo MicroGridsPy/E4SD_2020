@@ -1,7 +1,7 @@
-MicroGridsPy - Version 2.0 (RSET 2023 Publication)
+MicroGridsPy - Version Multi Year Capacity Expansion (E4SD 2020 Publication)
 ========================
 
-This is code used for the publication: https://doi.org/10.1016/j.rset.2023.100053
+This is code used for the publication: https://doi.org/10.1016/j.esd.2020.07.002
 
 ### Description
 
